@@ -1,12 +1,11 @@
 <div align="center">
     <img src="https://github.com/vaishakhanil/vaishakhanil/blob/master/turn.gif">
+    <h6><i>I'm a Frontend Developer, UI Designer & an 3D enthusiast!</i></h6>
 </div>
 
-### About me :eyeglasses:
-I'm an UI Designer, Frontend Developer & an 3D enthusiast!
-
 ### Ping me! :maple_leaf:
-[:globe_with_meridians:](https://vaishakhanil.github.io/) | [:bird:](https://twitter.com/_vaishakhanil_) | [:octocat:](https://github.com/vaishakhanil) | [:art:](https://dribbble.com/vaishakhanil) | [:camera:](https://www.instagram.com/_vaishakhanil_/) 
+[Webpage :globe_with_meridians:](https://vaishakhanil.github.io/) | [Twitter :bird:](https://twitter.com/_vaishakhanil_) | [GitHub :octocat:](https://github.com/vaishakhanil) | [Dribbble :art:](https://dribbble.com/vaishakhanil) | [Instagram :camera:](https://www.instagram.com/_vaishakhanil_/) 
 <p>
-    <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=vaishakhanil.visitor-badge">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=vaishakhanil.visitor-badge">
+    <img src="https://img.shields.io/badge/status-up-brightgreen">
 <p/>
