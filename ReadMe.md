@@ -7,8 +7,8 @@
 <p/>
 
 ### About me :eyeglasses:
-I'm an UI Designer / Frontend Developer from Bangalore, India :india:
-Interested in multiple technologies from Human-centered Interfaces to 3D Graphics!
+I'm an UI Designer, Frontend Developer & an 3D enthusiast!
+
 <h1 align="center">
     <span>I</span><br>
     <span>❤️</span><br>
@@ -17,7 +17,7 @@ Interested in multiple technologies from Human-centered Interfaces to 3D Graphic
 
 ### Ping me! :maple_leaf:
 <h1 align="center">
-    <a href="https://codepen.io/vaishakhanil"><img width="40px" src="https://github.com/vaishakhanil/vaishakhanil.github.io/blob/master/assets/codepen.png"></a>
-    <a href="https://twitter.com/_vaishakhanil_"><img width="40px" src="https://github.com/vaishakhanil/vaishakhanil.github.io/blob/master/assets/twitter.png"></a>
-    <a href="https://dribbble.com/vaishakhanil"><img width="40px" src="https://github.com/vaishakhanil/vaishakhanil.github.io/blob/master/assets/dribbble.png"></a>
+    <a href="https://codepen.io/vaishakhanil"><img width="25px" src="https://github.com/vaishakhanil/vaishakhanil.github.io/blob/master/assets/codepen.png"></a>
+    <a href="https://twitter.com/_vaishakhanil_"><img width="25px" src="https://github.com/vaishakhanil/vaishakhanil.github.io/blob/master/assets/twitter.png"></a>
+    <a href="https://dribbble.com/vaishakhanil"><img width="25px" src="https://github.com/vaishakhanil/vaishakhanil.github.io/blob/master/assets/dribbble.png"></a>
 </h1>
