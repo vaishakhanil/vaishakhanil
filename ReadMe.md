@@ -1,4 +1,4 @@
-## Hey! I'm Vaishakh Anil :wave:
+## Hey there, I'm Vaishakh Anil! :wave:
 
 <div align="center">
     <img src="https://github.com/vaishakhanil/vaishakhanil/blob/master/turn.gif">
@@ -8,6 +8,6 @@
 ### Get in touch! :maple_leaf:
 [Webpage :globe_with_meridians:](https://vaishakhanil.github.io/) | [Twitter :bird:](https://twitter.com/_vaishakhanil_) | [GitHub :octocat:](https://github.com/vaishakhanil) | [Dribbble :art:](https://dribbble.com/vaishakhanil) | [Instagram :camera:](https://www.instagram.com/_vaishakhanil_/) | [sourcerer :chart_with_upwards_trend:](https://sourcerer.io/vaishakhanil) 
 <p>
-    <img src="https://visitor-badge.glitch.me/badge?page_id=vaishakhanil.visitor-badge" alt="visitor-badge"> 
-    <img src="https://img.shields.io/website?label=vaishakhanil.github.io&url=https%3A%2F%2Fvaishakhanil.github.io" alt="website-status">
+    <a href="https://sourcerer.io/vaishakhanil"> <img src="https://visitor-badge.glitch.me/badge?page_id=vaishakhanil.visitor-badge" alt="visitor-badge"> </a>
+   <a href="https://vaishakhanil.github.io"> <img src="https://img.shields.io/website?label=vaishakhanil.github.io&url=https%3A%2F%2Fvaishakhanil.github.io" alt="website-status"> </a>
 <p/>
