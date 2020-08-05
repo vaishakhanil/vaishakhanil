@@ -23,6 +23,6 @@
 ---
 
 <p>
-    <a href="https://sourcerer.io/vaishakhanil"> <img src="https://visitor-badge.glitch.me/badge?page_id=vaishakhanil.visitor-badge" alt="visitor-badge"> </a>
+    <a href="https://sourcerer.io/vaishakhanil"> <img src="https://visitor-badge.glitch.me/badge?page_id=vaishakhanil.visitor-badge" alt="🚀"> </a>
    <a href="https://vaishakhanil.github.io"> <img width="200px" src="https://img.shields.io/website?style=for-the-badge&logo=github&label=vaishakhanil.github.io&url=https%3A%2F%2Fvaishakhanil.github.io" alt="website-status"></a>
 <p/>
