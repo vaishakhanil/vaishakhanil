@@ -16,11 +16,13 @@
 
 [<img align="left" alt="Vaishakh-Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/instagram.svg" />](https://www.instagram.com/_vaishakhanil_/) <tr>
 
-[<img align="left" alt="Vaishakh-Sourcerer" width="22px" src="https://sourcerer.io/icons/logo-bright.svg">](https://sourcerer.io/vaishakhanil)
+[<img align="left" alt="Vaishakh-Sourcerer" width="20px" src="https://sourcerer.io/icons/logo-bright.svg">](https://sourcerer.io/vaishakhanil)
 
 <br/>
+
 ---
+
 <p>
     <a href="https://sourcerer.io/vaishakhanil"> <img src="https://visitor-badge.glitch.me/badge?page_id=vaishakhanil.visitor-badge" alt="visitor-badge"> </a>
-   <a href="https://vaishakhanil.github.io"> <img src="https://img.shields.io/website?label=vaishakhanil.github.io&url=https%3A%2F%2Fvaishakhanil.github.io" alt="website-status"> </a>
+   <a href="https://vaishakhanil.github.io"> <img width="200px" src="https://img.shields.io/website?style=for-the-badge&logo=github&label=vaishakhanil.github.io&url=https%3A%2F%2Fvaishakhanil.github.io" alt="website-status"></a>
 <p/>
