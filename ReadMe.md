@@ -16,7 +16,7 @@
 
 [<img align="left" alt="Vaishakh-Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/instagram.svg" />](https://www.instagram.com/_vaishakhanil_/) <tr>
 
-[<img align="left" alt="Vaishakh-Sourcerer" width="20px" src="https://sourcerer.io/icons/logo-bright.svg">](https://sourcerer.io/vaishakhanil)
+[<img align="left" alt="Vaishakh-Sourcerer" width="20px" src="./scicon.svg">](https://sourcerer.io/vaishakhanil)
 
 <br/>
 
