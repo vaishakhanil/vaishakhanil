@@ -26,5 +26,5 @@
 
 <p>
     <a href="https://sourcerer.io/vaishakhanil"> <img src="https://visitor-badge.glitch.me/badge?page_id=vaishakhanil.visitor-badge" alt="🚀"> </a>
-    <a href="https://www.codewars.com/users/vaishakhanil"> <img src="https://www.codewars.com/users/vaishakhanil/badges/large" alt="CodeWars"> </a> 
+    <a href="https://www.codewars.com/users/vaishakhanil"> <img src="https://www.codewars.com/users/vaishakhanil/badges/micro" alt="CodeWars"> </a> 
 <p/>
