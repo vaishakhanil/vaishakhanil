@@ -14,9 +14,13 @@
     <a href="https://dribbble.com/vaishakhanil" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/dribbble-F182AD?style=for-the-badge&logo=dribbble&logoColor=white" alt="dribbble-vaishakhanil"/>
     </a>&nbsp;
-    <a href="https://hub.docker.com/u/vaishakhanil" target="_blank" rel="noopener noreferrer">
+    <!-- DockerHub Profile -->
+    <!-- <a href="https://hub.docker.com/u/vaishakhanil" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/dockerhub-2195EC?style=for-the-badge&logo=docker&logoColor=white" alt="dockerhub-vaishakhanil"/>
-    </a>&nbsp;
+    </a>&nbsp; -->
+    <a href="https://www.uplabs.com/vaishakhanil" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/uplabs-blue?style=for-the-badge&logo=uplabs" alt="uplabs-vaishakhanil"/>
+    </a>&nbsp;    
     <a href="https://codepen.io/vaishakhanil" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/CodePen-121417?style=for-the-badge&logo=codepen" alt="CodePen-vaishakhanil"/>
     </a>&nbsp;
