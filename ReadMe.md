@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <img src="https://github.com/vaishakhanil/vaishakhanil/blob/master/turn.gif">
+    <img src="https://github.com/vaishakhanil/vaishakhanil/blob/master/turn-updated.gif">
     <h6><b><i>I'm a Frontend Developer, UI Designer & an 3D enthusiast!</b></i></h6>
 </div>
 
