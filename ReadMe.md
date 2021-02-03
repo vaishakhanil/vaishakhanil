@@ -28,15 +28,3 @@
 <br/>
 
 ---
-
-<div align="center">
-    <a href="https://twitter.com/_vaishakhanil_" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/__vaishakhanil__-blue?style=social&logo=twitter&label=follow" alt="twitter-vaishakhanil"/>
-    </a> &nbsp;&nbsp;
-    <a href="https://www.codewars.com/users/vaishakhanil" target="_blank" rel="noopener noreferrer">
-        <img src="https://www.codewars.com/users/vaishakhanil/badges/micro" alt="CodeWars">
-    </a> &nbsp;&nbsp;
-    <a href="https://instagram.com/_vaishakhanil_" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/__vaishakhanil__-blue?style=social&logo=instagram&label=follow" alt="instagram-vaishakhanil"/>
-    </a>
-<div/>
